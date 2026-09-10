@@ -26,6 +26,18 @@ App de agendamento (Android, iOS e web) com horário disponível em tempo real, 
 
 [Ver online](https://luduran-agendamento-demo.vercel.app) · [Código](https://github.com/Luduranoficiall/agendamento-app)
 
+### App de Clima com assistente de IA
+
+Previsão do tempo nativa Android: localização em tempo real, busca de qualquer cidade, previsão horária e de 7 dias, 3 idiomas, e um assistente de IA que dá conselho prático a partir da previsão real.
+
+[Código](https://github.com/Luduranoficiall/App-de-Clima-do-tempo)
+
+### App de Quiz com ranking local
+
+Quiz de múltipla escolha nativo Android: 6 categorias, cronômetro, ajudas (50/50, tempo extra, pular), combo de sequência e ranking local, tudo 100% offline.
+
+[Código](https://github.com/Luduranoficiall/App-de-Quiz)
+
 ### Cartão de fidelidade digital pra comércio local
 
 Cartão fidelidade digital (Android, iOS e web) sem papel pra perder. Cliente acompanha os carimbos pelo próprio WhatsApp, dono soma carimbo e confirma resgate num painel simples.
