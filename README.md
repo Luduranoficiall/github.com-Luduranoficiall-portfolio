@@ -32,6 +32,12 @@ Previsão do tempo nativa Android: localização em tempo real, busca de qualque
 
 [Código](https://github.com/Luduranoficiall/App-de-Clima-do-tempo)
 
+### App de pedido direto sem taxa de marketplace
+
+App de pedido/delivery (Android, iOS e web) pra restaurante pequeno parar de pagar comissão de marketplace. Cliente monta o carrinho e envia direto, dono acompanha status em tempo real num painel.
+
+[Ver online](https://luduran-pedido-direto-demo.vercel.app) · [Código](https://github.com/Luduranoficiall/pedido-direto-app)
+
 ### App de Quiz com ranking local
 
 Quiz de múltipla escolha nativo Android: 6 categorias, cronômetro, ajudas (50/50, tempo extra, pular), combo de sequência e ranking local, tudo 100% offline.
@@ -44,12 +50,6 @@ Cartão fidelidade digital (Android, iOS e web) sem papel pra perder. Cliente ac
 
 [Ver online](https://luduran-fidelidade-demo.vercel.app) · [Código](https://github.com/Luduranoficiall/fidelidade-digital-app)
 
-### App de pedido direto sem taxa de marketplace
-
-App de pedido/delivery (Android, iOS e web) pra restaurante pequeno parar de pagar comissão de marketplace. Cliente monta o carrinho e envia direto, dono acompanha status em tempo real num painel.
-
-[Ver online](https://luduran-pedido-direto-demo.vercel.app) · [Código](https://github.com/Luduranoficiall/pedido-direto-app)
-
 ## Automação & IA
 
 ### Assistente virtual para captação e triagem de um alojamento esportivo
@@ -57,6 +57,12 @@ App de pedido/delivery (Android, iOS e web) pra restaurante pequeno parar de pag
 Assistente virtual que atende 24 horas, qualifica famílias interessadas numa vaga de alojamento esportivo de base e entrega o lead pronto pra decisão humana, sem nunca inventar informação que o clube ainda não confirmou.
 
 [Ver online](https://alojamento-base-forte.vercel.app) · [Código](https://github.com/Luduranoficiall/alojamento-base-forte)
+
+### Atendimento automático via WhatsApp para cabanas de temporada
+
+Sistema de atendimento por WhatsApp para uma rede de cabanas de aluguel por temporada: responde diária, disponibilidade e estrutura na hora, e organiza os contatos que viram reserva num painel de operação.
+
+[Ver online](https://cabanas-agent-o37u3uainq-uc.a.run.app/) · [Código](https://github.com/Luduranoficiall/luduran-cabanas)
 
 ### Funil de diagnóstico grátis
 
@@ -70,19 +76,7 @@ Sequência automática de reativação para cliente inativo: lembrete, oferta es
 
 [Código](https://github.com/Luduranoficiall/funil-reativacao-clientes)
 
-### Atendimento automático via WhatsApp para cabanas de temporada
-
-Sistema de atendimento por WhatsApp para uma rede de cabanas de aluguel por temporada: responde diária, disponibilidade e estrutura na hora, e organiza os contatos que viram reserva num painel de operação.
-
-[Ver online](https://cabanas-agent-o37u3uainq-uc.a.run.app/) · [Código](https://github.com/Luduranoficiall/luduran-cabanas)
-
 ## Sistema
-
-### Template white-label de app sob medida
-
-Esqueleto reutilizável de app (Android, iOS e web) com reducer testado, config de marca única e guia de rebrand embutido. Ferramenta interna pra sair um app novo pra cliente mais rápido, não é produto de cliente.
-
-[Ver online](https://luduran-app-base-demo.vercel.app) · [Código](https://github.com/Luduranoficiall/app-base-white-label)
 
 ### JavaTitan Engine — motor financeiro com criptografia ponta a ponta
 
@@ -96,15 +90,25 @@ CRUD completo de tarefas em C# puro (.NET 8, sem framework web), arquitetura em 
 
 [Código](https://github.com/Luduranoficiall/Lista-de-tarefas)
 
+### Microsserviços com CQRS e RabbitMQ
+
+Dois microsserviços em .NET 8 com escrita e leitura separadas (CQRS), comunicação por eventos via RabbitMQ/MassTransit, EF Core + PostgreSQL e 29 testes automatizados.
+
+[Código](https://github.com/Luduranoficiall/microsservi-os-cqrs-rabbitmq-kafka)
+
 ### OmniQuote Core — microsserviços C# e Java integrados
 
 Arquitetura de microsserviços poliglota: gateway em C# .NET 8 orquestrando um motor de cálculo financeiro em Java 17, com Strategy Pattern e JWT.
 
 [Código](https://github.com/Luduranoficiall/OmniQuote-Core)
 
-## Jogo
+### Template white-label de app sob medida
 
-_Projetos pessoais de prática, não são entrega de cliente._
+Esqueleto reutilizável de app (Android, iOS e web) com reducer testado, config de marca única e guia de rebrand embutido. Ferramenta interna pra sair um app novo pra cliente mais rápido, não é produto de cliente.
+
+[Ver online](https://luduran-app-base-demo.vercel.app) · [Código](https://github.com/Luduranoficiall/app-base-white-label)
+
+## Jogo
 
 ### Campo Minado
 
@@ -141,4 +145,3 @@ Puzzle cozy de encaixe: arraste cada item pra dentro da mala, girando quando pre
 Jogo estilo corredor infinito (tema Mario), HTML/CSS/JS puro, sem framework. Projeto de estudo/hobby, não é entrega de cliente — fica separado dos projetos de serviço por isso.
 
 [Ver online](https://luduran-mario-game.vercel.app) · [Código](https://github.com/Luduranoficiall/mario)
-
