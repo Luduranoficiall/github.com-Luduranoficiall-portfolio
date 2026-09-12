@@ -102,6 +102,12 @@ Arquitetura de microsserviços poliglota: gateway em C# .NET 8 orquestrando um m
 
 [Código](https://github.com/Luduranoficiall/OmniQuote-Core)
 
+### Painel de Métricas em Tempo Real (SignalR + Redis + gRPC)
+
+API de alta performance: ingestão via gRPC, transmissão em tempo real via SignalR agrupada por loja, e backplane Redis pra escalar entre múltiplas instâncias sem perder mensagem.
+
+[Código](https://github.com/Luduranoficiall/api-real-time-signalr-redis-grpc)
+
 ### Template white-label de app sob medida
 
 Esqueleto reutilizável de app (Android, iOS e web) com reducer testado, config de marca única e guia de rebrand embutido. Ferramenta interna pra sair um app novo pra cliente mais rápido, não é produto de cliente.
