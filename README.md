@@ -78,6 +78,12 @@ Sequência automática de reativação para cliente inativo: lembrete, oferta es
 
 ## Sistema
 
+### E-commerce com Clean Architecture e DDD
+
+API de produtos e pedidos em Clean Architecture (4 camadas) e DDD: agregados com invariante real, MediatR + FluentValidation, EF Core + SQLite, 62 testes automatizados sem nenhuma ressalva de ambiente.
+
+[Código](https://github.com/Luduranoficiall/e-commerce-clean-architecture-ddd-xunit-fluentvalidation-mediatr-docker)
+
 ### JavaTitan Engine — motor financeiro com criptografia ponta a ponta
 
 Motor de cálculo financeiro em Java puro: API HTTP nativa, processamento assíncrono, JWT HS256, mTLS e payload cifrado com AES-GCM.
