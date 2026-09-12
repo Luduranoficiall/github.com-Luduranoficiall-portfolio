@@ -90,6 +90,12 @@ Motor de cálculo financeiro em Java puro: API HTTP nativa, processamento assín
 
 [Código](https://github.com/Luduranoficiall/JavaTitan-Engine)
 
+### Lista de Tarefas em C#
+
+CRUD completo de tarefas em C# puro (.NET 8, sem framework web), arquitetura em camadas, exceções de domínio e 16 testes automatizados cobrindo a lógica real.
+
+[Código](https://github.com/Luduranoficiall/Lista-de-tarefas)
+
 ### OmniQuote Core — microsserviços C# e Java integrados
 
 Arquitetura de microsserviços poliglota: gateway em C# .NET 8 orquestrando um motor de cálculo financeiro em Java 17, com Strategy Pattern e JWT.
