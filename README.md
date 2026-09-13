@@ -84,6 +84,12 @@ Sequência automática de reativação para cliente inativo: lembrete, oferta es
 
 ## Sistema
 
+### Caixa Eletrônico (ATM) em C#
+
+Simulação de caixa eletrônico em console, C# puro (.NET 8): autenticação por cartão + PIN com hash PBKDF2, saque com limite por transação e por dia, extrato, troca de PIN e telefone, 39 testes automatizados.
+
+[Código](https://github.com/Luduranoficiall/caixa-eletr-nico-ATM-)
+
 ### E-commerce com Clean Architecture e DDD
 
 API de produtos e pedidos em Clean Architecture (4 camadas) e DDD: agregados com invariante real, MediatR + FluentValidation, EF Core + SQLite, 62 testes automatizados sem nenhuma ressalva de ambiente.
