@@ -84,6 +84,12 @@ Sequência automática de reativação para cliente inativo: lembrete, oferta es
 
 ## Sistema
 
+### Biblioteca de Filmes em C#
+
+Catálogo de filmes em console, C# puro (.NET 8): cadastro, busca por título/gênero/diretor/ano, controle de assistido, avaliação pessoal e ranking por nota, 30 testes automatizados.
+
+[Código](https://github.com/Luduranoficiall/Biblioteca-de-Filmes)
+
 ### Caixa Eletrônico (ATM) em C#
 
 Simulação de caixa eletrônico em console, C# puro (.NET 8): autenticação por cartão + PIN com hash PBKDF2, saque com limite por transação e por dia, extrato, troca de PIN e telefone, 39 testes automatizados.
