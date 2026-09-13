@@ -64,6 +64,12 @@ Sistema de atendimento por WhatsApp para uma rede de cabanas de aluguel por temp
 
 [Ver online](https://cabanas-agent-o37u3uainq-uc.a.run.app/) · [Código](https://github.com/Luduranoficiall/luduran-cabanas)
 
+### Classificador de Cores — Rede Neural em C# Puro
+
+Rede neural feedforward escrita do zero em C# (sem ML.NET, sem TensorFlow), rodando inteiramente no navegador via Blazor WebAssembly, com backprop verificado por gradient checking.
+
+[Ver online](https://classificador-cores-rede-neural.vercel.app) · [Código](https://github.com/Luduranoficiall/intelig-ncia-artificial-que-reconhece-cores)
+
 ### Funil de diagnóstico grátis
 
 Ferramenta de captação de lead: 5 perguntas sim/não sobre a estrutura do negócio, pontuação e recomendação automáticas, CTA direto pro WhatsApp. Java puro, sem framework, HttpServer nativo do JDK.
