@@ -102,6 +102,12 @@ API de produtos e pedidos em Clean Architecture (4 camadas) e DDD: agregados com
 
 [Código](https://github.com/Luduranoficiall/e-commerce-clean-architecture-ddd-xunit-fluentvalidation-mediatr-docker)
 
+### E-commerce Web com Pagamento Assíncrono e Painel Admin em Tempo Real
+
+Loja completa em ASP.NET Core MVC: autenticação real, carrinho persistido, checkout com cupom, pagamento assíncrono em background, concorrência otimista no estoque e painel admin com SignalR. 87 testes automatizados.
+
+[Código](https://github.com/Luduranoficiall/-3-E-commerce-web)
+
 ### JavaTitan Engine — motor financeiro com criptografia ponta a ponta
 
 Motor de cálculo financeiro em Java puro: API HTTP nativa, processamento assíncrono, JWT HS256, mTLS e payload cifrado com AES-GCM.
