@@ -18,6 +18,12 @@ Site institucional em Next.js com chat de IA (Google Gemini) integrado, catálog
 
 [Ver online](https://www.luduranoficiall.com) · [Código](https://github.com/Luduranoficiall/Luduranoficiallcom)
 
+### Site Premium para Escritório de Advocacia
+
+Site institucional para escritório de advocacia (demonstração de portfólio) com painel admin, área do cliente e chatbot de triagem, autenticação real com JWT, banco de dados persistente e 39 testes automatizados.
+
+[Código](https://github.com/Luduranoficiall/Site-Advocacia)
+
 ## Aplicativo
 
 ### App de agendamento com fila de espera para barbearia/salão/clínica
@@ -138,11 +144,23 @@ API de alta performance: ingestão via gRPC, transmissão em tempo real via Sign
 
 [Código](https://github.com/Luduranoficiall/api-real-time-signalr-redis-grpc)
 
+### Plataforma de Agendamentos
+
+API .NET 8 pra prestador de serviço (barbearia, salão, clínica): choque de horário nunca é checagem em memória, é estrutural do banco (chave primária no par prestador+instante), cálculo proativo de horários livres por dia, 31 testes automatizados.
+
+[Código](https://github.com/Luduranoficiall/Agendamentos.)
+
 ### Template white-label de app sob medida
 
 Esqueleto reutilizável de app (Android, iOS e web) com reducer testado, config de marca única e guia de rebrand embutido. Ferramenta interna pra sair um app novo pra cliente mais rápido, não é produto de cliente.
 
 [Ver online](https://luduran-app-base-demo.vercel.app) · [Código](https://github.com/Luduranoficiall/app-base-white-label)
+
+### Votação Eletrônica com Cadeia de Auditoria
+
+API de votação em .NET 8: voto anônimo separado do comprovante de participação, cada voto encadeia o hash do anterior (adulteração é detectável antes da apuração), identidade do eleitor pseudonimizada com HMAC-SHA256, SignalR pro total ao vivo, 44 testes automatizados.
+
+[Código](https://github.com/Luduranoficiall/votacao-eletronica)
 
 ## Jogo
 
