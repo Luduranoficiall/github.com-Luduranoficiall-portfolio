@@ -126,17 +126,35 @@ CRUD completo de tarefas em C# puro (.NET 8, sem framework web), arquitetura em 
 
 [Código](https://github.com/Luduranoficiall/Lista-de-tarefas)
 
+### Lyra — linguagem interpretada com compilador e VM em C#
+
+Linguagem de programação do zero em C# puro: lexer, parser recursivo-descendente, compilador para bytecode e uma VM stack-based que executa esse bytecode. Suporta função recursiva, closures sobre global, curto-circuito real, 37 testes automatizados.
+
+[Código](https://github.com/Luduranoficiall/lyra-lang)
+
 ### Microsserviços com CQRS e RabbitMQ
 
 Dois microsserviços em .NET 8 com escrita e leitura separadas (CQRS), comunicação por eventos via RabbitMQ/MassTransit, EF Core + PostgreSQL e 29 testes automatizados.
 
 [Código](https://github.com/Luduranoficiall/microsservi-os-cqrs-rabbitmq-kafka)
 
+### NexusDB — motor de banco de dados LSM-tree em C#
+
+Motor de banco de dados key-value embarcado, C# puro (.NET 8, zero dependências), estruturado como LSM-tree: write-ahead log com checksum, memtable concorrente, SSTables com bloom filter e compaction real. 26 testes automatizados, incluindo recuperação de crash de verdade.
+
+[Código](https://github.com/Luduranoficiall/nexusdb)
+
 ### OmniQuote Core — microsserviços C# e Java integrados
 
 Arquitetura de microsserviços poliglota: gateway em C# .NET 8 orquestrando um motor de cálculo financeiro em Java 17, com Strategy Pattern e JWT.
 
 [Código](https://github.com/Luduranoficiall/OmniQuote-Core)
+
+### Orbital — motor de jobs em background em C#
+
+Motor de processamento de jobs em background em C# puro: fila com prioridade e backpressure real, retry com backoff exponencial e jitter, dead-letter queue e shutdown gracioso em duas fases. 18 testes automatizados.
+
+[Código](https://github.com/Luduranoficiall/orbital)
 
 ### Painel de Métricas em Tempo Real (SignalR + Redis + gRPC)
 
