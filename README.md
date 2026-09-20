@@ -58,6 +58,12 @@ Cartão fidelidade digital (Android, iOS e web) sem papel pra perder. Cliente ac
 
 ## Automação & IA
 
+### Aegis — camada de governança para agentes Claude em Go
+
+Resiliência e governança sobre o SDK oficial do Claude em Go: circuit breaker por ferramenta, gate de confirmação para ação irreversível, contrato de saída estruturada validado por schema, sessão persistente. 27 testes automatizados sem rede e sem chave de API.
+
+[Código](https://github.com/Luduranoficiall/aegis-agent)
+
 ### Assistente virtual para captação e triagem de um alojamento esportivo
 
 Assistente virtual que atende 24 horas, qualifica famílias interessadas numa vaga de alojamento esportivo de base e entrega o lead pronto pra decisão humana, sem nunca inventar informação que o clube ainda não confirmou.
