@@ -10,7 +10,7 @@ Site principal, com página própria de cada projeto: https://www.luduranoficial
 
 Site corporativo + API para empresa de transformação com IA: landing pública, formulário de contato com notificação de leads, chatbot integrado e dashboard restrito ao CEO com analytics e auditoria.
 
-[Ver online](https://extraordinaria-ai.vercel.app) · [Código](https://github.com/Luduranoficiall/EXTRAORDINARIA-CorporateWebsite)
+[Ver online](https://extraordinaria-ai.vercel.app)
 
 ### Luduranoficiall.com — site institucional com IA e captação via WhatsApp
 
@@ -68,13 +68,13 @@ Resiliência e governança sobre o SDK oficial do Claude em Go: circuit breaker 
 
 Assistente virtual que atende 24 horas, qualifica famílias interessadas numa vaga de alojamento esportivo de base e entrega o lead pronto pra decisão humana, sem nunca inventar informação que o clube ainda não confirmou.
 
-[Ver online](https://alojamento-base-forte.vercel.app) · [Código](https://github.com/Luduranoficiall/alojamento-base-forte)
+[Ver online](https://alojamento-base-forte.vercel.app)
 
 ### Atendimento automático via WhatsApp para cabanas de temporada
 
 Sistema de atendimento por WhatsApp para uma rede de cabanas de aluguel por temporada: responde diária, disponibilidade e estrutura na hora, e organiza os contatos que viram reserva num painel de operação.
 
-[Ver online](https://cabanas-agent-o37u3uainq-uc.a.run.app/) · [Código](https://github.com/Luduranoficiall/luduran-cabanas)
+[Ver online](https://cabanas-agent-o37u3uainq-uc.a.run.app/)
 
 ### Classificador de Cores — Rede Neural em C# Puro
 
