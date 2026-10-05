@@ -84,6 +84,10 @@ Sequência automática de reativação para cliente inativo: lembrete, oferta es
 
 ## Sistema
 
+### Balcão: caixa de loja (PDV) que vende sem internet, em C#
+
+PDV desktop em C# com Avalonia e SQLite: continua vendendo com a internet fora e sincroniza quando ela volta (fila com chave de idempotência, sem venda duplicada), desconto rateado centavo a centavo, fechamento de caixa às cegas e atalhos de teclado pra operador, 37 testes automatizados incluindo a tela.
+
 ### Biblioteca de Filmes em C#
 
 Catálogo de filmes em console, C# puro (.NET 8): cadastro, busca por título/gênero/diretor/ano, controle de assistido, avaliação pessoal e ranking por nota, 30 testes automatizados.
@@ -99,6 +103,12 @@ API de produtos e pedidos em Clean Architecture (4 camadas) e DDD: agregados com
 ### E-commerce Web com Pagamento Assíncrono e Painel Admin em Tempo Real
 
 Loja completa em ASP.NET Core MVC: autenticação real, carrinho persistido, checkout com cupom, pagamento assíncrono em background, concorrência otimista no estoque e painel admin com SignalR. 87 testes automatizados.
+
+### Fluxo: finanças pessoais em Blazor WebAssembly
+
+Portal de finanças em C# que roda inteiro no navegador: importa extrato OFX e CSV de banco brasileiro sem duplicar, categoriza com regras que aprendem com a correção da pessoa, acompanha limite de gasto e metas, gráficos em SVG próprio, 74 testes automatizados.
+
+[Ver online](https://fluxo-financas-swart.vercel.app)
 
 ### JavaTitan Engine — motor financeiro com criptografia ponta a ponta
 
@@ -135,6 +145,10 @@ API de alta performance: ingestão via gRPC, transmissão em tempo real via Sign
 ### Plataforma de Agendamentos
 
 API .NET 8 pra prestador de serviço (barbearia, salão, clínica): choque de horário nunca é checagem em memória, é estrutural do banco (chave primária no par prestador+instante), cálculo proativo de horários livres por dia, 31 testes automatizados.
+
+### Quadro: Kanban em tempo real com Blazor e SignalR
+
+Quadro de tarefas em C# onde várias pessoas mexem ao mesmo tempo sem perder nada: ordem dos cartões por índice fracionário, conflito de edição resolvido por junção em três vias, histórico de operações sem buraco e presença ao vivo, 41 testes automatizados incluindo SignalR de ponta a ponta.
 
 ### Template white-label de app sob medida
 
