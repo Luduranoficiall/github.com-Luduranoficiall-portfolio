@@ -50,6 +50,12 @@ Cartão fidelidade digital (Android, iOS e web) sem papel pra perder. Cliente ac
 
 [Ver online](https://luduran-fidelidade-demo.vercel.app)
 
+### Rota: delivery com cliente, loja e entregador ao vivo
+
+App de delivery em C# puro (Blazor WebAssembly), três telas conversando ao vivo: o cliente pede e acompanha o entregador no mapa, a loja aceita e prepara, o entregador segue a rota mais curta pelas ruas (A*). Taxa por distância real, etapas do pedido com regra de quem pode mudar cada uma, 34 testes automatizados.
+
+[Ver online](https://rota-delivery.vercel.app)
+
 ## Automação & IA
 
 ### Aegis — camada de governança para agentes Claude em Go
