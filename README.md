@@ -102,6 +102,12 @@ Catálogo de filmes em console, C# puro (.NET 8): cadastro, busca por título/g�
 
 Simulação de caixa eletrônico em console, C# puro (.NET 8): autenticação por cartão + PIN com hash PBKDF2, saque com limite por transação e por dia, extrato, troca de PIN e telefone, 39 testes automatizados.
 
+### Caixa Forte: gateway de pagamentos em C#
+
+Gateway de pagamentos feito em C# (.NET 8 + Blazor WebAssembly): Pix com QR Code no padrão do Banco Central, cartão com antifraude por regras que explica cada ponto, idempotência contra cobrança em dobro, webhooks assinados com HMAC e nova tentativa automática, estorno, razão em partidas dobradas e conciliação com o extrato. 88 testes automatizados.
+
+[Ver online](https://www.luduranoficiall.com/demos/caixa-forte)
+
 ### E-commerce com Clean Architecture e DDD
 
 API de produtos e pedidos em Clean Architecture (4 camadas) e DDD: agregados com invariante real, MediatR + FluentValidation, EF Core + SQLite, 62 testes automatizados sem nenhuma ressalva de ambiente.
