@@ -128,6 +128,12 @@ Portal de finanças em C# que roda inteiro no navegador: importa extrato OFX e C
 
 [Ver online](https://fluxo-financas-swart.vercel.app)
 
+### Inquilino: plataforma SaaS multiempresa em C#
+
+Plataforma SaaS feita em C# (.NET 8 + Blazor WebAssembly): várias empresas isoladas no mesmo sistema por um repositório que filtra tudo pela sessão, papéis de acesso, planos com limite, chave de API guardada como hash com limite por minuto, cobrança mensal com teste grátis, proporcional na troca de plano e régua de inadimplência.
+
+[Ver online](https://www.luduranoficiall.com/demos/inquilino)
+
 ### JavaTitan Engine — motor financeiro com criptografia ponta a ponta
 
 Motor de cálculo financeiro em Java puro: API HTTP nativa, processamento assíncrono, JWT HS256, mTLS e payload cifrado com AES-GCM.
