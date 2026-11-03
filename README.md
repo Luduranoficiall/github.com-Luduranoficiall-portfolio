@@ -174,6 +174,12 @@ API .NET 8 pra prestador de serviço (barbearia, salão, clínica): choque de ho
 
 Quadro de tarefas em C# onde várias pessoas mexem ao mesmo tempo sem perder nada: ordem dos cartões por índice fracionário, conflito de edição resolvido por junção em três vias, histórico de operações sem buraco e presença ao vivo, 41 testes automatizados incluindo SignalR de ponta a ponta.
 
+### Sinal: central de notificações multicanal em C#
+
+Central de notificações feita em C# (.NET 8 + Blazor WebAssembly): modelos com variável, valor padrão e bloco condicional validados com a posição do erro, fila por prioridade com limite por minuto em cada canal, nova tentativa com espera crescente e canal reserva, horário de silêncio, limite de promoções por dia, resumo diário e contagem de SMS com custo.
+
+[Ver online](https://www.luduranoficiall.com/demos/sinal)
+
 ### Template white-label de app sob medida
 
 Esqueleto reutilizável de app (Android, iOS e web) com reducer testado, config de marca única e guia de rebrand embutido. Ferramenta interna pra sair um app novo pra cliente mais rápido, não é produto de cliente.
