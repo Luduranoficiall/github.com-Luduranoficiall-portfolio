@@ -116,6 +116,12 @@ API de produtos e pedidos em Clean Architecture (4 camadas) e DDD: agregados com
 
 Loja completa em ASP.NET Core MVC: autenticação real, carrinho persistido, checkout com cupom, pagamento assíncrono em background, concorrência otimista no estoque e painel admin com SignalR. 87 testes automatizados.
 
+### Feira: marketplace com saga entre serviços, em C#
+
+Marketplace feito em C# (.NET 8 + Blazor WebAssembly): várias lojas no mesmo site, busca com índice invertido que entende erro de digitação, carrinho com frete por loja, cupom rateado no centavo, checkout em saga com compensação entre quatro serviços que só conversam por mensagem, comissão por categoria e repasse ao vendedor.
+
+[Ver online](https://www.luduranoficiall.com/demos/feira)
+
 ### Fluxo: finanças pessoais em Blazor WebAssembly
 
 Portal de finanças em C# que roda inteiro no navegador: importa extrato OFX e CSV de banco brasileiro sem duplicar, categoriza com regras que aprendem com a correção da pessoa, acompanha limite de gasto e metas, gráficos em SVG próprio, 74 testes automatizados.
