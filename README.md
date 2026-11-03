@@ -174,6 +174,12 @@ API .NET 8 pra prestador de serviço (barbearia, salão, clínica): choque de ho
 
 Quadro de tarefas em C# onde várias pessoas mexem ao mesmo tempo sem perder nada: ordem dos cartões por índice fracionário, conflito de edição resolvido por junção em três vias, histórico de operações sem buraco e presença ao vivo, 41 testes automatizados incluindo SignalR de ponta a ponta.
 
+### Rastro: estoque com event sourcing e CQRS em C#
+
+Controle de estoque feito em C# (.NET 8 + Blazor WebAssembly) com event sourcing e CQRS: armazém de eventos só de acréscimo com concorrência otimista, snapshots, conversão de eventos de versão antiga na leitura, projeções com checkpoint que mostram o próprio atraso e se reconstroem do zero, viagem no tempo, custo médio ponderado e kardex.
+
+[Ver online](https://www.luduranoficiall.com/demos/rastro)
+
 ### Sinal: central de notificações multicanal em C#
 
 Central de notificações feita em C# (.NET 8 + Blazor WebAssembly): modelos com variável, valor padrão e bloco condicional validados com a posição do erro, fila por prioridade com limite por minuto em cada canal, nova tentativa com espera crescente e canal reserva, horário de silêncio, limite de promoções por dia, resumo diário e contagem de SMS com custo.
