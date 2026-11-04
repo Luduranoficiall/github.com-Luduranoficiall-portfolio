@@ -108,6 +108,12 @@ Gateway de pagamentos feito em C# (.NET 8 + Blazor WebAssembly): Pix com QR Code
 
 [Ver online](https://www.luduranoficiall.com/demos/caixa-forte)
 
+### Comporta: API de alto volume em C#
+
+Simulador feito em C# (.NET 8 + Blazor WebAssembly) das técnicas que seguram uma API sob muito acesso: janela fixa, janela deslizante por registro e por contadores e balde de fichas comparados com o mesmo tráfego, cache LRU em O(1) com validade e junção de buscas simultâneas, escrita agrupada, teste de carga por eventos discretos com Poisson e Zipf mostrando percentis, e medição real cronometrada no navegador.
+
+[Ver online](https://www.luduranoficiall.com/demos/comporta)
+
 ### Correnteza: corretor de mensagens estilo Kafka em C#
 
 Corretor de mensagens feito do zero em C# (.NET 8 + Blazor WebAssembly) no modelo do Kafka: tópicos com partições e offsets estáveis, partição por hash da chave, produtor idempotente, grupos de consumo com duas estratégias de divisão, sinal de vida e rebalanceamento, replay, retenção, compactação por chave e três serviços encadeados que processam tudo uma vez.
