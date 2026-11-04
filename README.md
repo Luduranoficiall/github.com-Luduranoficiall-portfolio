@@ -216,6 +216,12 @@ Central de notificações feita em C# (.NET 8 + Blazor WebAssembly): modelos com
 
 [Ver online](https://www.luduranoficiall.com/demos/sinal)
 
+### Tela: streaming de vídeo adaptativo em C#
+
+Streaming de vídeo feito em C# (.NET 8 + Blazor WebAssembly): corte em pedaços e playlists HLS em cinco qualidades, player simulado com buffer comparando escolha pela velocidade, pelo buffer (BBA) e híbrida com desistência de download lento, e continuar assistindo entre aparelhos.
+
+[Ver online](https://www.luduranoficiall.com/demos/tela)
+
 ### Template white-label de app sob medida
 
 Esqueleto reutilizável de app (Android, iOS e web) com reducer testado, config de marca única e guia de rebrand embutido. Ferramenta interna pra sair um app novo pra cliente mais rápido, não é produto de cliente.
