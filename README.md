@@ -134,6 +134,12 @@ API de produtos e pedidos em Clean Architecture (4 camadas) e DDD: agregados com
 
 Loja completa em ASP.NET Core MVC: autenticação real, carrinho persistido, checkout com cupom, pagamento assíncrono em background, concorrência otimista no estoque e painel admin com SignalR. 87 testes automatizados.
 
+### Escala: simulador de autoescala na nuvem em C#
+
+Simulador feito em C# (.NET 8 + Blazor WebAssembly) que compara políticas de escala num dia de tráfego minuto a minuto: fila M/M/1 por servidor, regra do autoescalador do Kubernetes, tempo de aquecimento, janela de estabilidade e agenda pro pico anunciado, com custo, minutos lentos e erros por política, mais Dockerfile e configuração de Kubernetes com as mesmas regras.
+
+[Ver online](https://www.luduranoficiall.com/demos/escala)
+
 ### Feira: marketplace com saga entre serviços, em C#
 
 Marketplace feito em C# (.NET 8 + Blazor WebAssembly): várias lojas no mesmo site, busca com índice invertido que entende erro de digitação, carrinho com frete por loja, cupom rateado no centavo, checkout em saga com compensação entre quatro serviços que só conversam por mensagem, comissão por categoria e repasse ao vendedor.
