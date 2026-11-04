@@ -204,6 +204,12 @@ Controle de estoque feito em C# (.NET 8 + Blazor WebAssembly) com event sourcing
 
 [Ver online](https://www.luduranoficiall.com/demos/rastro)
 
+### Roda: rede social com feed ranqueado em C#
+
+Rede social feita em C# (.NET 8 + Blazor WebAssembly): seguir e bloquear, feed por relevância com decaimento no tempo e afinidade, entrega híbrida (empurrar pra perfil comum, puxar pra perfil grande), assuntos do momento, sugestão por amigos em comum, limite contra spam, filtro de palavras que pega disfarce sem falso positivo e fila de moderação.
+
+[Ver online](https://www.luduranoficiall.com/demos/roda)
+
 ### Sinal: central de notificações multicanal em C#
 
 Central de notificações feita em C# (.NET 8 + Blazor WebAssembly): modelos com variável, valor padrão e bloco condicional validados com a posição do erro, fila por prioridade com limite por minuto em cada canal, nova tentativa com espera crescente e canal reserva, horário de silêncio, limite de promoções por dia, resumo diário e contagem de SMS com custo.
