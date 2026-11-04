@@ -216,6 +216,12 @@ Esqueleto reutilizável de app (Android, iOS e web) com reducer testado, config 
 
 [Ver online](https://luduran-app-base-demo.vercel.app)
 
+### Vitrine: sistema de recomendação em C#
+
+Sistema de recomendação feito em C# (.NET 8 + Blazor WebAssembly): filtragem colaborativa item a item por cosseno, conteúdo por TF-IDF, híbrido com reordenação MMR pra variedade, explicação de cada sugestão, cliente e produto novos resolvidos e avaliação offline com acerto, NDCG, cobertura e variedade.
+
+[Ver online](https://www.luduranoficiall.com/demos/vitrine)
+
 ### Votação Eletrônica com Cadeia de Auditoria
 
 API de votação em .NET 8: voto anônimo separado do comprovante de participação, cada voto encadeia o hash do anterior (adulteração é detectável antes da apuração), identidade do eleitor pseudonimizada com HMAC-SHA256, SignalR pro total ao vivo, 44 testes automatizados.
