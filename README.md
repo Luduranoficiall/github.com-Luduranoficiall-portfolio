@@ -108,6 +108,12 @@ Gateway de pagamentos feito em C# (.NET 8 + Blazor WebAssembly): Pix com QR Code
 
 [Ver online](https://www.luduranoficiall.com/demos/caixa-forte)
 
+### Correnteza: corretor de mensagens estilo Kafka em C#
+
+Corretor de mensagens feito do zero em C# (.NET 8 + Blazor WebAssembly) no modelo do Kafka: tópicos com partições e offsets estáveis, partição por hash da chave, produtor idempotente, grupos de consumo com duas estratégias de divisão, sinal de vida e rebalanceamento, replay, retenção, compactação por chave e três serviços encadeados que processam tudo uma vez.
+
+[Ver online](https://www.luduranoficiall.com/demos/correnteza)
+
 ### E-commerce com Clean Architecture e DDD
 
 API de produtos e pedidos em Clean Architecture (4 camadas) e DDD: agregados com invariante real, MediatR + FluentValidation, EF Core + SQLite, 62 testes automatizados sem nenhuma ressalva de ambiente.
