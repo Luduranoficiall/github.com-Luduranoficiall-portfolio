@@ -114,6 +114,12 @@ Simulador feito em C# (.NET 8 + Blazor WebAssembly) das técnicas que seguram um
 
 [Ver online](https://www.luduranoficiall.com/demos/comporta)
 
+### Conselho: consenso Raft em C#
+
+Implementação do Raft em C# (.NET 8 + Blazor WebAssembly) com visualização ao vivo: eleição com tempo sorteado e voto só pra log atualizado, replicação com recuo do líder, confirmação só de entradas do próprio termo, queda e volta de servidor, rede partida, perda de mensagens e teste de caos que confere as garantias de segurança a cada passo.
+
+[Ver online](https://www.luduranoficiall.com/demos/conselho)
+
 ### Correnteza: corretor de mensagens estilo Kafka em C#
 
 Corretor de mensagens feito do zero em C# (.NET 8 + Blazor WebAssembly) no modelo do Kafka: tópicos com partições e offsets estáveis, partição por hash da chave, produtor idempotente, grupos de consumo com duas estratégias de divisão, sinal de vida e rebalanceamento, replay, retenção, compactação por chave e três serviços encadeados que processam tudo uma vez.
