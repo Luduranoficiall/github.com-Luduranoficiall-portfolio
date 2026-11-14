@@ -240,6 +240,18 @@ API de votação em .NET 8: voto anônimo separado do comprovante de participaç
 
 ## Jogo
 
+### 32 Labirintos
+
+Quebra-cabeça com 32 mini-labirintos em quatro níveis de dificuldade, cada um com uma mecânica diferente. Joga direto no navegador, no celular ou no computador.
+
+[Ver online](https://labirinto-32.vercel.app)
+
+### Bomb Farm
+
+RPG idle: seu esquadrão de bombardeiros minera sozinho, acha itens raros e você evolui os equipamentos. Joga direto no navegador, sem download.
+
+[Ver online](https://bomb-farm.vercel.app)
+
 ### Campo Minado
 
 Campo Minado clássico: descubra as células seguras sem detonar mina, primeiro clique nunca é mina. Lógica em Python de verdade, testada com pytest, rodando o mesmo arquivo no navegador via Pyodide.
@@ -264,6 +276,12 @@ Sokoban clássico: empurre as caixas até os alvos, com desfazer e 4 fases. Jogo
 
 [Ver online](https://deposito-lotado.vercel.app)
 
+### Desafio dos Nós
+
+Arcade de sobrevivência em ondas, em homenagem ao motor de jogos Godot, com poderes e melhorias entre as ondas. Joga direto no navegador.
+
+[Ver online](https://desafio-dos-nos.vercel.app)
+
 ### Mala Arrumada
 
 Puzzle cozy de encaixe: arraste cada item pra dentro da mala, girando quando precisar, até tudo caber sem sobrepor. Joga direto no navegador, sem download, no celular ou no desktop.
@@ -275,3 +293,15 @@ Puzzle cozy de encaixe: arraste cada item pra dentro da mala, girando quando pre
 Jogo estilo corredor infinito (tema Mario), HTML/CSS/JS puro, sem framework. Projeto de estudo/hobby, não é entrega de cliente — fica separado dos projetos de serviço por isso.
 
 [Ver online](https://luduran-mario-game.vercel.app)
+
+### O Poço Ancestral
+
+Reconstrua uma vila de mineração, contrate trabalhadores, forje equipamentos e desça sete masmorras. Progresso continua mesmo com o jogo fechado.
+
+[Ver online](https://poco-ancestral.vercel.app)
+
+### Perdas Aceitáveis
+
+Estratégia de trincheira na 1ª Guerra Mundial: comande os esquadrões numa campanha de 20 dias, com cenário em 3D. Joga direto no navegador, sem download.
+
+[Ver online](https://perdas-aceitaveis.vercel.app)
